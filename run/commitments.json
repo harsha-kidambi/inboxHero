@@ -1,0 +1,469 @@
+{
+ "items": [
+  {
+   "date": "2026-09-09",
+   "time": null,
+   "quote": "Wednesday",
+   "kind": "deadline",
+   "status": "confirmed",
+   "who": "Maya",
+   "title": "Launch week -- kickoff: Draft by Wednesday.",
+   "cites": [
+    "m028"
+   ],
+   "thread": "t-launch",
+   "from": "maya@paperjet.io",
+   "unverified": false,
+   "cid": "C01"
+  },
+  {
+   "date": "2026-09-09",
+   "time": "14:00",
+   "quote": "Wednesday",
+   "kind": "meeting",
+   "status": "proposed",
+   "who": "Sam",
+   "title": "Can we move our weekly 1:1 from Thursday to Wednesday at 2:00pm this week?",
+   "cites": [
+    "m013"
+   ],
+   "thread": "t-sched1",
+   "from": "raghav@paperjet.io",
+   "unverified": false,
+   "cid": "C02"
+  },
+  {
+   "date": "2026-09-09",
+   "time": "14:00",
+   "quote": "Wednesday",
+   "kind": "meeting",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Our evaluation team can do the product demo on Wednesday at 2:00pm.",
+   "cites": [
+    "m016"
+   ],
+   "thread": "t-sched2",
+   "from": "partners@acme-corp.com",
+   "unverified": false,
+   "cid": "C03"
+  },
+  {
+   "date": "2026-09-10",
+   "time": null,
+   "quote": "Thursday",
+   "kind": "deadline",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Quick question for our launch coverage: On deadline for Thursday.",
+   "cites": [
+    "m046"
+   ],
+   "thread": "t-press",
+   "from": "editor@techbrief.news",
+   "unverified": false,
+   "cid": "C04"
+  },
+  {
+   "date": "2026-09-11",
+   "time": null,
+   "quote": "Sep 11",
+   "kind": "fyi",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "A payout of $2,140.55 is expected to arrive in your bank by Sep 11.",
+   "cites": [
+    "m085"
+   ],
+   "thread": "t-noise-85",
+   "from": "notifications@stripe.com",
+   "unverified": false,
+   "cid": "C05"
+  },
+  {
+   "date": "2026-09-11",
+   "time": null,
+   "quote": "Friday",
+   "kind": "deadline",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Please review clause 4 in particular and sign via the portal by Friday.",
+   "cites": [
+    "m018"
+   ],
+   "thread": "t-legal",
+   "from": "m.cho@hartwellcho.com",
+   "unverified": false,
+   "cid": "C06"
+  },
+  {
+   "date": "2026-09-11",
+   "time": "11:30",
+   "quote": "expires in 48 hours",
+   "kind": "deadline",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Confirming your booking: The hold expires in 48 hours.",
+   "cites": [
+    "m019"
+   ],
+   "thread": "t-venue",
+   "from": "events@thegrandvenue.com",
+   "unverified": false,
+   "cid": "C07"
+  },
+  {
+   "date": "2026-09-11",
+   "time": "17:00",
+   "quote": "Friday",
+   "kind": "deadline",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Friendly reminder to submit your timesheet by Friday 5pm.",
+   "cites": [
+    "m117"
+   ],
+   "thread": "t-fill-117",
+   "from": "hr@paperjet.io",
+   "unverified": false,
+   "cid": "C08"
+  },
+  {
+   "date": "2026-09-12",
+   "time": null,
+   "quote": "the 12th",
+   "kind": "deadline",
+   "status": "proposed",
+   "who": "Sam",
+   "title": "Can you approve the final pricing copy by the 12th?",
+   "cites": [
+    "m030"
+   ],
+   "thread": "t-launch",
+   "from": "priya@paperjet.io",
+   "unverified": false,
+   "cid": "C09"
+  },
+  {
+   "date": "2026-09-12",
+   "time": "13:00",
+   "quote": "Sep 12",
+   "kind": "fyi",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "New event: '15-min intro' with a website visitor on Sep 12, 1:00pm.",
+   "cites": [
+    "m086"
+   ],
+   "thread": "t-noise-86",
+   "from": "notifications@calendly.com",
+   "unverified": false,
+   "cid": "C10"
+  },
+  {
+   "date": "2026-09-14",
+   "time": null,
+   "quote": "the 14th",
+   "kind": "event",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Load test on the signup flow is scheduled for the 14th.",
+   "cites": [
+    "m029"
+   ],
+   "thread": "t-launch",
+   "from": "raghav@paperjet.io",
+   "unverified": false,
+   "cid": "C11"
+  },
+  {
+   "date": "2026-09-14",
+   "time": null,
+   "quote": "Monday",
+   "kind": "event",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "The office will be closed Monday for building maintenance.",
+   "cites": [
+    "m118"
+   ],
+   "thread": "t-fill-118",
+   "from": "facilities@paperjet.io",
+   "unverified": false,
+   "cid": "C12"
+  },
+  {
+   "date": "2026-09-14",
+   "time": null,
+   "quote": "Monday",
+   "kind": "deadline",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Please review the draft board minutes ahead of the meeting on the 18th and flag any corrections by Monday.",
+   "cites": [
+    "m048"
+   ],
+   "thread": "t-legal3",
+   "from": "j.hartwell@hartwellcho.com",
+   "unverified": false,
+   "cid": "C13"
+  },
+  {
+   "date": "2026-09-14",
+   "time": "09:00",
+   "quote": "Monday",
+   "kind": "meeting",
+   "status": "proposed",
+   "who": "Sam",
+   "title": "Could you do Monday at 9:00am, before markets open?",
+   "cites": [
+    "m043"
+   ],
+   "thread": "t-invest",
+   "from": "aria.f@northwind.vc",
+   "unverified": false,
+   "cid": "C14"
+  },
+  {
+   "date": "2026-09-15",
+   "time": "15:00",
+   "quote": "Tuesday the 15th",
+   "kind": "meeting",
+   "status": "proposed",
+   "who": "Sam",
+   "title": "Does Tuesday the 15th at 3:00pm work on your side?",
+   "cites": [
+    "m010"
+   ],
+   "thread": "t-invest",
+   "from": "aria.f@northwind.vc",
+   "unverified": false,
+   "cid": "C15"
+  },
+  {
+   "date": "2026-09-15",
+   "time": "15:00",
+   "quote": "September 15",
+   "kind": "meeting",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Your dental cleaning with Dr Osei on Tuesday, September 15 at 3:00 PM.",
+   "cites": [
+    "m061"
+   ],
+   "thread": "t-dentist",
+   "from": "appointments@brightsmile-dental.com",
+   "unverified": false,
+   "cid": "C16"
+  },
+  {
+   "date": "2026-09-16",
+   "time": null,
+   "quote": "the 16th",
+   "kind": "fyi",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Your Team plan renews on the 16th for $290.",
+   "cites": [
+    "m053"
+   ],
+   "thread": "t-vendor",
+   "from": "success@zenboard.io",
+   "unverified": false,
+   "cid": "C17"
+  },
+  {
+   "date": "2026-09-16",
+   "time": null,
+   "quote": "two days before the board review",
+   "kind": "deadline",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Can you have the board deck finished and circulated two days before the board review? The investors like time ",
+   "cites": [
+    "m040",
+    "m038"
+   ],
+   "thread": "t-deck",
+   "from": "priya@paperjet.io",
+   "unverified": true,
+   "derived": "2 day(s) before 'board review' (Sep 18, m038)",
+   "cid": "C18"
+  },
+  {
+   "date": "2026-09-17",
+   "time": null,
+   "quote": "Thursday",
+   "kind": "event",
+   "status": "confirmed",
+   "who": "Devika",
+   "title": "I'm out Thursday and Friday next week for a family thing.",
+   "cites": [
+    "m059"
+   ],
+   "thread": "t-team",
+   "from": "devika@paperjet.io",
+   "unverified": false,
+   "cid": "C19"
+  },
+  {
+   "date": "2026-09-18",
+   "time": "10:00",
+   "quote": "the 18th",
+   "kind": "meeting",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "The quarterly board review is set for the 18th, 10:00am, in-person at the office.",
+   "cites": [
+    "m048",
+    "m038"
+   ],
+   "thread": "t-legal3",
+   "from": "j.hartwell@hartwellcho.com",
+   "unverified": false,
+   "quotes": [
+    "the 18th",
+    "the 18th"
+   ],
+   "cid": "C20"
+  },
+  {
+   "date": "2026-09-19",
+   "time": null,
+   "quote": "the 19th",
+   "kind": "deadline",
+   "status": "confirmed",
+   "who": "Jordan",
+   "title": "I have another offer I need to respond to by the 19th, so any read on where I stand would help a lot.",
+   "cites": [
+    "m042"
+   ],
+   "thread": "t-hire",
+   "from": "jordan.okafor@gmail.com",
+   "unverified": false,
+   "cid": "C21"
+  },
+  {
+   "date": "2026-09-20",
+   "time": null,
+   "quote": "the 20th",
+   "kind": "event",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Launch week -- kickoff: Target is the 20th.",
+   "cites": [
+    "m026",
+    "m036"
+   ],
+   "thread": "t-launch",
+   "from": "priya@paperjet.io",
+   "unverified": false,
+   "quotes": [
+    "the 20th",
+    "the 20th"
+   ],
+   "cid": "C22"
+  },
+  {
+   "date": "2026-09-22",
+   "time": null,
+   "quote": "Sep 22",
+   "kind": "fyi",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Your flight check-in is open: Flight on Sep 22.",
+   "cites": [
+    "m095"
+   ],
+   "thread": "t-noise-95",
+   "from": "checkin@united.com",
+   "unverified": false,
+   "cid": "C23"
+  },
+  {
+   "date": "2026-09-30",
+   "time": null,
+   "quote": "before month-end",
+   "kind": "deadline",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "PaperJet -- one more signature needed: Not urgent but before month-end.",
+   "cites": [
+    "m055"
+   ],
+   "thread": "t-legal2",
+   "from": "m.cho@hartwellcho.com",
+   "unverified": false,
+   "cid": "C24"
+  },
+  {
+   "date": "2026-10-02",
+   "time": null,
+   "quote": "Oct 2",
+   "kind": "fyi",
+   "status": "confirmed",
+   "who": "Sam",
+   "title": "Paperjet.io auto-renews on Oct 2 for $38.88.",
+   "cites": [
+    "m075"
+   ],
+   "thread": "t-noise-75",
+   "from": "support@namecheap.com",
+   "unverified": false,
+   "cid": "C25"
+  }
+ ],
+ "conflicts": [
+  {
+   "type": "double-booked",
+   "when": "Wed Sep 09 14:00",
+   "items": [
+    "C02",
+    "C03"
+   ],
+   "cites": [
+    "m013",
+    "m016"
+   ],
+   "detail": "Can we move our weekly 1:1 from Thursday to Wednesday at 2:0  vs  Our evaluation team can do the product demo on Wednesday at "
+  },
+  {
+   "type": "double-booked",
+   "when": "Tue Sep 15 15:00",
+   "items": [
+    "C15",
+    "C16"
+   ],
+   "cites": [
+    "m010",
+    "m061"
+   ],
+   "detail": "Does Tuesday the 15th at 3:00pm work on your side?  vs  Your dental cleaning with Dr Osei on Tuesday, September 15 a"
+  },
+  {
+   "type": "breaks-standing-rule",
+   "when": "Mon Sep 14 09:00",
+   "items": [
+    "C14"
+   ],
+   "cites": [
+    "m043",
+    "m041"
+   ],
+   "detail": "Could you do Monday at 9:00am, before markets open? is before 11:00 (rule from m041)"
+  },
+  {
+   "type": "breaks-standing-rule",
+   "when": "Fri Sep 18 10:00",
+   "items": [
+    "C20"
+   ],
+   "cites": [
+    "m048",
+    "m038",
+    "m041"
+   ],
+   "detail": "The quarterly board review is set for the 18th, 10:00am, in-person at  is before 11:00 (rule from m041)"
+  }
+ ]
+}

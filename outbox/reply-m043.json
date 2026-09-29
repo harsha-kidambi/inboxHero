@@ -1,0 +1,17 @@
+{
+  "id": "reply-m043",
+  "from": "sam@paperjet.io",
+  "to": "aria.f@northwind.vc",
+  "cc": null,
+  "subject": "Re: one more slot",
+  "body": "Hi Aria,\n\nThanks for reaching out. Mon Sep 14 at 9:00am doesn't work on my side - I don't take meetings before 11am. Could we do Mon Sep 14 at 2:00pm, Tue Sep 15 at 2:00pm or Wed Sep 16 at 2:00pm instead?\n\nBest,\nSam",
+  "in_reply_to": [
+    "m043"
+  ],
+  "cites": [
+    "m043",
+    "m041"
+  ],
+  "approved_by": "approved (--approve)",
+  "sent_at": "2026-09-26T15:21:51+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "fwd-m015-hartwellcho.com",
+  "from": "sam@paperjet.io",
+  "to": "priya@paperjet.io",
+  "cc": null,
+  "subject": "Fwd: 3 messages from hartwellcho.com",
+  "body": "Hi Priya,\n\nPer your standing request (m015), forwarding everything from hartwellcho.com:\n\n- m018 (2026-09-09) PaperJet -- SAFE amendment for signature\n- m048 (2026-09-09) PaperJet -- board minutes for review\n- m055 (2026-09-09) PaperJet -- one more signature needed\n\nFull messages attached below.\n\nSam",
+  "in_reply_to": [
+    "m018",
+    "m048",
+    "m055"
+  ],
+  "cites": [
+    "m015",
+    "m018",
+    "m048",
+    "m055"
+  ],
+  "approved_by": "approved (--approve)",
+  "sent_at": "2026-09-26T15:21:51+00:00",
+  "forwarded": [
+    {
+      "id": "m018",
+      "from": "m.cho@hartwellcho.com",
+      "subject": "PaperJet -- SAFE amendment for signature",
+      "timestamp": "2026-09-09T10:15:00",
+      "body": "Sam, attached is the revised SAFE reflecting the discount change we discussed. Please review clause 4 in particular and sign via the portal by Friday. Let us know if anything looks off. -- Marcus Cho, Hartwell & Cho LLP"
+    },
+    {
+      "id": "m048",
+      "from": "j.hartwell@hartwellcho.com",
+      "subject": "PaperJet -- board minutes for review",
+      "timestamp": "2026-09-09T13:15:00",
+      "body": "Sam, please review the draft board minutes ahead of the meeting on the 18th and flag any corrections by Monday. Draft attached in the portal. -- Julia Hartwell, Hartwell & Cho LLP"
+    },
+    {
+      "id": "m055",
+      "from": "m.cho@hartwellcho.com",
+      "subject": "PaperJet -- one more signature needed",
+      "timestamp": "2026-09-09T16:40:00",
+      "body": "Sam, separate from the SAFE: we also need your signature on the updated IP assignment for the new contractor. Portal link in the previous email. Not urgent but before month-end. -- Marcus Cho"
+    }
+  ]
+}

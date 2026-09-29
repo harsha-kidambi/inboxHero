@@ -1,0 +1,124 @@
+[
+ {
+  "aid": "reply-m010",
+  "type": "send_reply",
+  "msg_ids": [
+   "m010"
+  ],
+  "why_human": "Declines a time and offers alternatives in your name. External recipient.",
+  "risk": "high",
+  "irreversible": true,
+  "to": "aria.f@northwind.vc",
+  "cc": null,
+  "subject": "Re: Intro call this week?",
+  "body": "Hi Aria,\n\nThanks for reaching out. I\u2019m already committed at 3:00\u202fpm on Tuesday Sep\u202f15, so I\u2019ll need to decline that slot. Would Tuesday Sep\u202f15 at 11:00\u202fam, Wednesday Sep\u202f16 at 11:00\u202fam, or Thursday Sep\u202f17 at 11:00\u202fam work instead? Please let me know which alternative works for you.\n\nBest,\nSam",
+  "cites": [
+   "m010",
+   "m061"
+  ],
+  "draft_source": "model"
+ },
+ {
+  "aid": "reply-m016",
+  "type": "send_reply",
+  "msg_ids": [
+   "m016"
+  ],
+  "why_human": "Declines a time and offers alternatives in your name. External recipient.",
+  "risk": "high",
+  "irreversible": true,
+  "to": "partners@acme-corp.com",
+  "cc": null,
+  "subject": "Re: PaperJet demo -- Wednesday?",
+  "body": "Thanks for the invitation. I\u2019m already committed at that time. Could we try one of the following instead: Thu Sep 10 at 2:00pm, Fri Sep 11 at 2:00pm, or Mon Sep 14 at 11:00am? Let me know what works for you.\n\nSam",
+  "cites": [
+   "m016",
+   "m013"
+  ],
+  "draft_source": "model"
+ },
+ {
+  "aid": "reply-m043",
+  "type": "send_reply",
+  "msg_ids": [
+   "m043"
+  ],
+  "why_human": "Declines a time and offers alternatives in your name. External recipient.",
+  "risk": "high",
+  "irreversible": true,
+  "to": "aria.f@northwind.vc",
+  "cc": null,
+  "subject": "Re: one more slot",
+  "body": "Thank you for the invitation, but I don\u2019t take meetings before 11\u202fam, so I\u2019m unable to meet at 9:00\u202fam on Monday. Would any of the following work instead: Monday\u202fSep\u202f14 at 2:00\u202fpm, Tuesday\u202fSep\u202f15 at 2:00\u202fpm, or Wednesday\u202fSep\u202f16 at 2:00\u202fpm? Please let me know which option suits you best.\n\nSam",
+  "cites": [
+   "m043",
+   "m041"
+  ],
+  "draft_source": "model"
+ },
+ {
+  "aid": "reply-m008",
+  "type": "send_reply",
+  "msg_ids": [
+   "m008"
+  ],
+  "why_human": "Sends information in your name. Contains a live credential - consider sharing via the secrets manager instead.",
+  "risk": "high",
+  "irreversible": true,
+  "to": "devika@paperjet.io",
+  "cc": null,
+  "subject": "Re: Staging is down again",
+  "body": "Here is the staging queue URL you need: amqp://pj_stage:Rk7-quiet-otter-51@broker-stg.paperjet.io:5672/pjs\n\nLet me know if anything else is required.\n\nSam",
+  "cites": [
+   "m003"
+  ],
+  "draft_source": "model"
+ },
+ {
+  "aid": "fwd-m015-hartwellcho.com",
+  "type": "forward",
+  "msg_ids": [
+   "m018",
+   "m048",
+   "m055"
+  ],
+  "why_human": "Applies standing rule m015: 3 law-firm messages in ONE forward (one approval, not three).",
+  "risk": "low",
+  "irreversible": true,
+  "forwarded": [
+   "m018",
+   "m048",
+   "m055"
+  ],
+  "to": "priya@paperjet.io",
+  "cc": null,
+  "subject": "Fwd: 3 messages from hartwellcho.com",
+  "body": "Hi Priya,\n\nPer your standing request (m015), forwarding everything from hartwellcho.com:\n\n- m018 (2026-09-09) PaperJet -- SAFE amendment for signature\n- m048 (2026-09-09) PaperJet -- board minutes for review\n- m055 (2026-09-09) PaperJet -- one more signature needed\n\nFull messages attached below.\n\nSam",
+  "cites": [
+   "m015",
+   "m018",
+   "m048",
+   "m055"
+  ],
+  "draft_source": "template"
+ },
+ {
+  "aid": "chase-m044",
+  "type": "send_reply",
+  "msg_ids": [
+   "m044"
+  ],
+  "why_human": "Chases a colleague in your name after 6 days of silence.",
+  "risk": "low",
+  "irreversible": true,
+  "days_waiting": 6,
+  "to": "priya@paperjet.io",
+  "cc": null,
+  "subject": "Re: contractor invoice approval",
+  "body": "Hi Priya,\n\nFollowing up on my note from Sep 2 about contractor invoice approval - it's still open on my side. Could you take a look this week?\n\nThanks,\nSam",
+  "cites": [
+   "m044"
+  ],
+  "draft_source": "template"
+ }
+]

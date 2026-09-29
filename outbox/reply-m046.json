@@ -1,0 +1,17 @@
+{
+  "id": "reply-m046",
+  "from": "sam@paperjet.io",
+  "to": "priya@paperjet.io",
+  "cc": null,
+  "subject": "Can you take this? Quick question for our launch coverage",
+  "body": "Hi Priya,\n\neditor@techbrief.news is asking about the launch for their coverage (\"Quick question for our launch coverage\"). You briefed press (m036), so could you take this one and reply directly?\n\nThanks,\nSam",
+  "in_reply_to": [
+    "m046"
+  ],
+  "cites": [
+    "m046",
+    "m036"
+  ],
+  "approved_by": "approved (--approve)",
+  "sent_at": "2026-09-26T15:21:51+00:00"
+}
