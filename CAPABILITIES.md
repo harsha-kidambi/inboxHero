@@ -1,7 +1,7 @@
 # CAPABILITIES.md
 
 **Student:** Harsha Kidambi, evernorth-aai-1164386
-**Repository:** https://github.com/REPLACE-WITH-YOUR-USERNAME/inboxhero
+**Repository:** https://github.com/harsha-kidambi/inboxHero
 
 Run everything through one entry point:
 

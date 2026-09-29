@@ -1,6 +1,6 @@
 # inboxHero
 
-**GitHub:** https://github.com/REPLACE-WITH-YOUR-USERNAME/inboxhero
+**GitHub:** https://github.com/harsha-kidambi/inboxHero
 **Student:** Harsha Kidambi, evernorth-aai-1164386
 **Course:** Agentic AI: From Concepts to Practice (IIIT Hyderabad), Assignment 06
 

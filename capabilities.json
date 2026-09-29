@@ -1,6 +1,6 @@
 {
   "student": "Harsha Kidambi, evernorth-aai-1164386",
-  "repo": "https://github.com/REPLACE-WITH-YOUR-USERNAME/inboxhero",
+  "repo": "https://github.com/harsha-kidambi/inboxHero",
   "system": {
     "framework": "none",
     "model": "nvidia/nemotron-3-super-120b-a12b via NVIDIA NIM (OpenAI-compatible) for batched triage of the ambiguous remainder, draft wording and thread summaries. Developed against the deterministic offline analyst (MODEL_PROVIDER=offline) and a local fake OpenAI endpoint that injects 429s and ungrounded drafts. The shipped trace.jsonl and outbox/ were produced by the offline analyst.",
